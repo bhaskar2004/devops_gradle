@@ -1,0 +1,2 @@
+clean build(task)
+**/target/surefire-reports/*.xml
